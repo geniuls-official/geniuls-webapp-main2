@@ -1,0 +1,26 @@
+{
+  "name": "geniuls-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "bootstrap": "^5.0.0",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "next": "^14.2.3",
+    "npm": "^10.8.0",
+    "react": "18.2.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-simple-typewriter": "^5.0.1",
+    "reactstrap": "^9.1.6",
+    "theme-ui": "^0.15.7"
+  }
+}
